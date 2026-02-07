@@ -1,0 +1,15 @@
+[theme]
+# The primary color for interactive elements (buttons, checkboxes)
+primaryColor = "#FF4B4B"
+
+# The background color for the main content area
+backgroundColor = "#0E1117"
+
+# The background color for the sidebar and secondary widgets
+secondaryBackgroundColor = "#262730"
+
+# The color for all text
+textColor = "#FAFAFA"
+
+# Font family (sans serif is usually most modern)
+font = "sans serif"
